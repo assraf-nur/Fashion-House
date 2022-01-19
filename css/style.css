@@ -1,0 +1,30 @@
+.header-section{
+    background-color:#FFFBF0;
+    padding-bottom: 100px;
+}
+.penguin{
+    color:#FABE4C;
+}
+.title{
+    font-weight: 400;
+    font-size: 80px;
+    width: 420px;
+    height: 192px;
+    font-family: 'Bebas Neue', cursive;
+}
+.banner-details{
+    width: 350px;
+}
+.button{
+    background-image: linear-gradient(#A4BC46, #85A019);
+    border: none;
+    color: #ffffff;
+    border-color: #A4BC46;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.banner-image{
+    width: 400px;
+    margin-left: 150px;
+}
