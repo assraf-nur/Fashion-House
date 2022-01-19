@@ -14,6 +14,9 @@
 }
 .banner-details{
     width: 350px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
 }
 .button{
     background-image: linear-gradient(#A4BC46, #85A019);
@@ -27,4 +30,34 @@
 .banner-image{
     width: 400px;
     margin-left: 150px;
+}
+.w-jacket{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: 400;
+}
+.image{
+    width: 300px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.cards{
+    margin: 20px;
+    border-radius: 20px;
+}
+.cardtitle{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+.cardtext{
+    width: 250px;
+}
+.price{
+    font-size: 36px;
+    color: #FABE4C;
+    font-weight: 700;
+}
+.buy-btn{
+    margin-left: 60px;
 }
